@@ -1,2 +1,2 @@
 # C_Exercise
-Repo To Solution Of C Problems
+Repo For Solution Of C Problems
