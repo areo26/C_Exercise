@@ -24,7 +24,7 @@ int main() {
            continue;
         } else if (num >= 20) {
            printf("-----------------------------------------------\n");
-           printf("You Can Only Calculate It From 0! - 20! Due to long int overflow !\n");
+           printf("You Can Only Calculate It From 0! - 19! Due to long int overflow !\n");
            printf("-----------------------------------------------\n");
         } else {
             printf("-----------------------------------------------\n");
