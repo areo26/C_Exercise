@@ -11,7 +11,6 @@ int LinearSearch(int arr[], int len, int find) {
     {
         if(find == arr[i]) {
             return i;
-            break;
         }
     }
     return -1;
