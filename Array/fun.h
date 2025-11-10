@@ -6,3 +6,13 @@ void reverse(int arr[], int len) {
     }
 }
 
+int LinearSearch(int arr[], int len, int find) {
+    for (int i = 0; i < len; i++)
+    {
+        if(find == arr[i]) {
+            return i;
+            break;
+        }
+    }
+    return -1;
+}
